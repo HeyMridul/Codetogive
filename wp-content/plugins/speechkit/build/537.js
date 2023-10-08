@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbeyondwords_wordpress_plugin=self.webpackChunkbeyondwords_wordpress_plugin||[]).push([[537],{3537:function(s,e,o){o.r(e);var r=o(614),n=(o(1978),{[r.b8]:{[r.T.shortTitle]:"Listen to this audio"}});e.default=n}}]);

@@ -1,0 +1,5 @@
+.tta_notice{display:none}.tta_button{display:flex;justify-content:center;align-items:center}
+
+.tts__listent_content div::after{
+    content: "\f304";
+}
